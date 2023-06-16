@@ -1,0 +1,9 @@
+San Francisco Weather Report for the Next 7 Days:
+
+- Monday: High 64F, Low 53F. Clear skies. Winds WNW at 15 to 25 mph.
+- Tuesday: High 63F, Low 53F. Clear skies. Winds WNW at 15 to 25 mph.
+- Wednesday: High 63F, Low 53F. Clear skies. Winds WNW at 15 to 25 mph.
+- Thursday: High 63F, Low 53F. Clear skies. Winds WNW at 15 to 25 mph.
+- Friday: High 63F, Low 53F. Clear skies. Winds WNW at 15 to 25 mph.
+- Saturday: High 63F, Low 53F. Clear skies. Winds WNW at 15 to 25 mph.
+- Sunday: High 63F, Low 53F. Clear skies. Winds WNW at 15 to 25 mph.
